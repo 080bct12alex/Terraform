@@ -4,7 +4,7 @@ Terraform is an open-source IaC (Infrastructure as Code) tool.
 
     Infrastructure as Code (IaC) means you can create and manage cloud infrastructure using code and configuration files instead of manual steps.
 
-Terraform supports multiple cloud providers like AWS, GCP, and Azure, providing a single solution to manage multiple clouds.
+Terraform supports multiple cloud providers like AWS, GCP, k8s and Azure, providing a single solution to manage multiple clouds.
 
 ---
  Traditional vs Terraform Approach
