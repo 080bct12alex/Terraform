@@ -4,7 +4,7 @@ Terraform is an open-source Infrastructure as Code (IaC) tool that allows users 
 
 It supports multiple cloud platforms and providers, including AWS , K8S ,GCP, Azure , offering a unified comprehensive solution for cloud infrastructure management. 
 
-<img src="https://i.ibb.co/gLgDmm0Q/What-is-Terraform.png" alt="Terraform" border="0">
+![Terraform](/terraform/images/What-is-Terraform.png)
 
 ---
 
@@ -25,6 +25,8 @@ With IaC tools like Terraform, the same task can be accomplished / automate this
 | Replicability | Difficult to reproduce exact setups   | Easy to replicate entire environments|
 
 ---
+
+
 **Terraform Configuration Files**
 
 Terraform configuration files use the .tf  or .tf.json extension
@@ -50,8 +52,8 @@ The basic working steps of Terraform involve preparing the configuration, initia
  terraform apply 
  terraform destroy
 ```
+![Terraform Workflow](/terraform/images/terraform%20workflow.png)
 
-<img src="https://i.ibb.co/60KNf55C/Screenshot-303.png" alt="Screenshot-303" border="0">
 ---
 **Steps**
 
@@ -96,7 +98,7 @@ terraform destroy
 
 
 
-<img src="https://i.ibb.co/gFF42shV/Terraform-Workflow.png" alt="Terraform-Workflow" border="0">
+![Terraform Workflow](/terraform/images/Terraform-Workflow.png)
 ---
 Benefits of Using IaC with Terraform
 ---

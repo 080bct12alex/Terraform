@@ -1,6 +1,7 @@
 # Terraform Cloud 
 
 - Terraform Cloud is a managed service provided by HashiCorp that offers features to simplify and automate Terraform workflows. 
+
 - Enables CI/CD for Terraform.
 - Key features include 
   - remote state management, allowing Terraform state to be stored and managed securely in the cloud, similar to using an S3 bucket. 

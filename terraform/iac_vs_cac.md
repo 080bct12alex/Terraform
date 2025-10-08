@@ -20,3 +20,7 @@
         Use terraform for setup 
         AND
         Ansible for install and deploy 
+
+
+
+![terraform](/terraform/images/iac-vs-cac.png)
