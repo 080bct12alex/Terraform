@@ -1,7 +1,7 @@
 # Infrastructure as Code (IaC) and Configuration  as Code
 - They serve different purposes.
 
-<img src="https://i.ibb.co/NgvsD9Yt/Screenshot-305.png" alt="Iac" border="0">
+
 ---
 
 **Infrastructure as Code**
