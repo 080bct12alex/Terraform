@@ -17,9 +17,9 @@
 
 *Key point:*
      
-        Use terraform for setup 
+        Use terraform for setup and manage infrastructure   
         AND
-        Ansible for install and deploy 
+        Ansible for install , deploy and manage application 
 
 
 
